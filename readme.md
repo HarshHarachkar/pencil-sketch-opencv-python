@@ -144,5 +144,5 @@ Check out the live working demo of this project on my **LinkedIn** post below ðŸ
 
 **Author:** Harsh Harachkar <br>
 **Email:** harshharachkar666@gmail.com <br>
-**GitHub:** [https://github.com/HarshHarachkar]
+**GitHub:** [https://github.com/HarshHarachkar]<br>
 **LinkedIn:** [https://linkedin.com/in/harshh1104]  
