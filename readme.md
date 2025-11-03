@@ -96,12 +96,12 @@ Full code is in `pencil_sketch.py`.
 **✏️ Generated Pencil Sketch:**  
 ![Output Image](pencil_sketch.jpg)
 
-
+<br>
 
 **🎥 Live Demo:**  
 
 Check out the live working demo of this project on my **LinkedIn** post below 👇  
-🔗 [Watch Live on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+🔗 https://www.linkedin.com/posts/harshh1104_python-opencv-computervision-activity-7390591019395825665-X_dC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEJENxgB3ss4e5KeY52_kSCURVa1hZ-qO0s
 
 
 
